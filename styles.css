@@ -60,7 +60,6 @@ li a{
     border-radius: .5rem;
 }
 .firstside2{
-    
     padding-top: 2rem;
     margin-top: 5rem;
     width: 30%;
@@ -71,6 +70,7 @@ li a{
 
 }
 .first{
+    background: white;
     text-align: center;
     padding: 2rem;
     width: 25rem;
@@ -78,6 +78,7 @@ li a{
     border-radius: 1rem;
 }
 .test{
+    padding-top: 2rem;
     letter-spacing: 1rem;
     text-align: center;
     color: rgb(17, 17, 88);
@@ -89,6 +90,7 @@ li a{
 }
 .monster{
     clear: both;
+    background: rgba(226, 225, 225, 0.774);
     height: 50rem;
 }
 /*---- STYLES OF LAST SECTION ----*/
