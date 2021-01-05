@@ -143,3 +143,48 @@ footer h3, h4{
     padding-left: 12rem;
     display: inline;
 }
+/*--- STYLES OF ADDTIONAL SECTION ---*/
+.addtional{
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+    height: 50rem;
+    background:rgb(252, 165, 116)
+}
+.add h2{
+    padding-top: 2rem;
+    margin-top: 0;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(17, 17, 88);
+}
+.add p{
+    text-align: center;
+    text-transform: capitalize;
+    text-justify: auto;
+}
+.firstbox{
+    width: 20%;
+    margin-right: 0;
+    margin-left: 42rem;
+    background: white;
+    border: .4rem solid white;
+    padding: 5rem;
+    margin-top: 10rem;
+    box-shadow: 10px 10px 40px gray;
+    border-image: linear-gradient(rgb(122, 180, 255), rgb(74, 71, 255));
+    border-image-slice: 1;
+    border-radius: 1rem;
+    height: 12rem;
+}
+.boxbtn{
+    padding-top: .5rem;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(255, 81, 0), rgb(255, 38, 0));
+    text-decoration: none;
+    background-color: orange;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+}
+/* END OF STYLES */
